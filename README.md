@@ -1,8 +1,11 @@
-# React + Vite
+# React Messaging App with Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
 
-Currently, two official plugins are available:
+Follow these steps to set up and run your React app:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the Repository:**
+2. **yarn install**
+3. **yarn dev** to run development server
+4. **yarn build** to build the app for production.
+5. **yarn serve** to serve the production build locally.
